@@ -1,0 +1,130 @@
+/* flex uility */
+.display-flex {
+    display: flex;
+  }
+  
+  /* flex-direction */
+  
+  .flex-row {
+    flex-direction: row;
+  }
+  .flex-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .flex-column {
+    flex-direction: column;
+  }
+  .flex-column-reverse {
+    flex-direction: column-reverse;
+  }
+  
+  /* flex-wrap */
+  
+  .flex-nowrap {
+    flex-wrap: nowrap;
+  }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+  .flex-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  
+  /* justify-content */
+  
+  .justify-flex-start {
+    justify-content: flex-start;
+  }
+  .justify-flex-end {
+    justify-content: flex-end;
+  }
+  .justify-center {
+    justify-content: center;
+  }
+  .justify-space-b {
+    justify-content: space-between;
+  }
+  .justify-space-a {
+    justify-content: space-around;
+  }
+  .justify-space-e {
+    justify-content: space-evenly;
+  }
+  
+  /* align-content */
+  
+  .align-flex-start {
+    align-content: flex-start;
+  }
+  .align-flex-end {
+    align-content: flex-end;
+  }
+  .align-center {
+    align-content: center;
+  }
+  .align-stretch {
+    align-content: stretch;
+  }
+  .align-space-b {
+    align-content: space-between;
+  }
+  .align-space-a {
+    align-content: space-around;
+  }
+  
+  /* align-items */
+  
+  .align-i-flex-start {
+    align-items: flex-start;
+  }
+  .align-i-flex-end {
+    align-items: flex-end;
+  }
+  .align-i-center {
+    align-items: center;
+  }
+  .align-i-stretch {
+    align-items: stretch;
+  }
+  .align-i-baseline {
+    align-items: baseline;
+  }
+  
+  /* order */
+  
+  .order {
+    order: 1;
+  }
+  
+  /* flex-shrink, grow and basis */
+  
+  .flex-shrink {
+    flex-shrink: 1;
+  }
+  .flex-grow {
+    flex-grow: 0;
+  }
+  .flex-basis {
+    flex-basis: auto;
+  }
+  
+  /* align-self */
+  
+  .align-self-auto {
+    align-self: auto;
+  }
+  .align-self-flex-start {
+    align-self: flex-start;
+  }
+  .align-self-flex-end {
+    align-self: flex-end;
+  }
+  .align-self-center {
+    align-self: center;
+  }
+  .align-self-baseline {
+    align-self: baseline;
+  }
+  .align-self-stretch {
+    align-self: stretch;
+  }
