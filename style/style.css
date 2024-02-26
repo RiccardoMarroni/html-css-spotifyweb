@@ -149,12 +149,12 @@ ul{
   
   /* row */
   
-  .playlistrow {
+  .playlist {
     width: 100%;
     padding: 30px 0;
   }
   
-  .playlistrow h2 {
+  .playlist h2 {
     font-size: 1.8em;
     font-weight: 700;
   }
